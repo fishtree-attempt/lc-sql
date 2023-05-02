@@ -1,4 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3266102.svg)](https://doi.org/10.5281/zenodo.3266102)  
+> **ATTENTION** This is an experimental test of [The Carpentries Workbench](https://carpentries.github.io/workbench) lesson infrastructure.
+> It was automatically converted from the source lesson via [the lesson transition script](https://github.com/carpentries/lesson-transition/).
+> 
+> If anything seems off, please contact Zhian Kamvar [zkamvar@carpentries.org](mailto:zkamvar@carpentries.org)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3266102.svg)](https://doi.org/10.5281/zenodo.3266102)
 
 # Maintainers for Library Carpentry: SQL
 
@@ -19,7 +24,7 @@ Lesson Maintainers communication is via the [team site](https://github.com/orgs/
 
 ## Library Carpentry
 
-[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
+[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library and information-related roles. It builds on the work of [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
 
 ## License
 
@@ -40,10 +45,12 @@ Library Carpentry is authored and maintained through issues, commits, and pull r
 
 ## Citation
 
-Jordan Perdersen (Ed.), Kristin Lee (Ed.), Christopher Erdmann (Ed.), Lise Doucette (Ed.), Elaine Wong (Ed.), Janice Chan (Ed.), James Baker, Fernando Rios, Tim Dennis, Belinda Weaver, … orobecca. (2019, July). LibraryCarpentry/lc-sql: Library Carpentry: Introduction to SQL, June 2019 (Version v2019.06.1). Zenodo. http://doi.org/10.5281/zenodo.3266102
+Jordan Perdersen (Ed.), Kristin Lee (Ed.), Christopher Erdmann (Ed.), Lise Doucette (Ed.), Elaine Wong (Ed.), Janice Chan (Ed.), James Baker, Fernando Rios, Tim Dennis, Belinda Weaver, … orobecca. (2019, July). LibraryCarpentry/lc-sql: Library Carpentry: Introduction to SQL, June 2019 (Version v2019.06.1). Zenodo. [http://doi.org/10.5281/zenodo.3266102](https://doi.org/10.5281/zenodo.3266102)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3266102.svg)](https://doi.org/10.5281/zenodo.3266102)
 
 ## Checking and Previewing the Lesson
 
-To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](http://carpentries.github.io/lesson-example/07-checking/index.html).
+To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](https://carpentries.github.io/lesson-example/07-checking/index.html).
+
+
